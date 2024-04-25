@@ -23,7 +23,7 @@ let questions=[
     },
     {
         numb:3,
-        question:"What is the primary cause of dislocation in a crystalline structure?",
+        question:"Which of the following materials is classified as a ferromagnetic material??",
         answer:"Iron",        
         options:[
             "Aluminum",
