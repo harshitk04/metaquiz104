@@ -1,57 +1,57 @@
 let questions=[
     {
         numb:1,
-        question:"Which type of defect involves an extra atom inserted into the crystal structure, often leading to increased hardness and strength in metallic materials?",
-        answer:"Interstitial defect",
+        question:"Which of the following materials exhibits the highest electrical conductivity at room temperature?",
+        answer:"Copper",
         options:[
-            "Interstitial defect",
-            "Vacancy defect",
-            "Frenkel defect",
-            "Schottky defect"
+            "Rubber",
+            "Glass",
+            "Copper",
+            "Wood"
             ]
     },
     {
         numb:2,
-        question:"In metal alloys, what term describes the situation when different elements occupy equivalent crystal lattice sites, leading to distortion of the regular crystal structure?",
-        answer:"Substitutional solid solution",
+        question:"What is the property of a material that determines its ability to retain magnetization when an external magnetic field is removed?",
+        answer:"Coercivity",
         options:[
-            "Grain boundary",
-            "Interstitial solid solution",
-            "Substitutional solid solution",
-            "Phase segregation"            
+            "Permeability",
+            "Susceptibility",
+            "Hysteresis",
+            "Coercivity"            
         ]
     },
     {
         numb:3,
         question:"What is the primary cause of dislocation in a crystalline structure?",
-        answer:"Application of stress",        
+        answer:"Iron",        
         options:[
-            "Introduction of impurities",
-            "Application of stress",
-            "Rapid cooling",        
-            "Annealing process"
+            "Aluminum",
+            "Iron",
+            "Copper",
+            "Silver"
         ]
     },
     {
         numb:4,
-        question:"Which of the following is NOT a type of point defect in a crystal lattice?",
-        answer:"Line defect",
+        question:"The dielectric constant of a material is a measure of its:",
+        answer:"Permittivity",
         options:[
-            "Vacancy defect",
-            "Interstitial defect",
-            "Line defect",
-            "Substitutional defect"
+            "Electrical resistance",
+            "Ability to conduct electricity",
+            "Capacitance",
+            "Permittivity"
         ]
     },
     {
         numb:5,
-        question:"Which type of defect involves the simultaneous movement of atoms in a crystal lattice",
-        answer:"Slip bands",
+        question:"Which of the following materials is commonly used as an insulator in electrical wiring due to its high resistivity?",
+        answer:"Rubber",
         options:[
-            "Slip bands",
-            "Frenkel defect",
-            "Schottky defect",
-            "Grain boundary"
+            "Aluminum",
+            "Copper",
+            "Rubber",
+            "Silver"
         ]
     }
 ]
